@@ -17,7 +17,9 @@
 # Ignore other unneeded files.
 doc/
 *.swp
+*.swo
 *~
+.gitignore
 .project
 .DS_Store
 bundler_stubs/
