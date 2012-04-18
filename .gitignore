@@ -16,6 +16,7 @@
 
 # Ignore other unneeded files.
 doc/
+.swp
 *.swp
 *.swo
 *~
